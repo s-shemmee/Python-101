@@ -61,13 +61,24 @@ Before we write our first line of Python code, you'll need to install a text edi
 
 - Step 1 :
 
-  Download VS code from here <a href="https://code.visualstudio.com/download">Link</a>.
+  - Download VS code from here <a href="https://code.visualstudio.com/download">Link</a>.
 
 - Step 2 :
 
-  Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). Then, run the file – it will only take a minute.
+  - Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). Then, run the file – it will only take a minute.
 
-  <img src="https://www.educative.io/api/edpresso/shot/5485113345835008/image/6359130978123776" width= "100px" aling= "center"/>
+  <img src="https://www.educative.io/api/edpresso/shot/5485113345835008/image/6359130978123776"/>
+
+  - Accept the agreement and click `“next”`.
+
+  <img src="https://www.educative.io/api/edpresso/shot/5485113345835008/image/5970797106036736"/>
+
+  - After accepting all the requests press finish button. By default, VS Code installs under: `"C:\users{username}\AppData\Local\Programs\Microsoft VS Code."`
+
+<img src="https://www.educative.io/api/edpresso/shot/5485113345835008/image/6505951994052608">
+
+  - If the installation is successful, you will see the following:
+
+  <img src="https://www.educative.io/api/edpresso/shot/5485113345835008/image/4587054357282816">
 
 
-  
