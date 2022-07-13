@@ -57,7 +57,7 @@ print ("Hello World")
 
 **1. Install Vs Code**
 
-Before we write our first line of Python code, you'll need to install a text editor (sometimes called an IDE). In this course, we'll be using vs code.
+*Before we write our first line of Python code, you'll need to install a text editor (sometimes called an IDE). In this course, we'll be using vs code.*
 
 - Step 1 :
 
@@ -82,3 +82,36 @@ Before we write our first line of Python code, you'll need to install a text edi
   <img src="https://www.educative.io/api/edpresso/shot/5485113345835008/image/4587054357282816">
 
 
+**2. Install Python**
+
+*There are several ways to install Python on your computer. We'll be using a simple installer called Anaconda.*
+
+- Download the Python 3.6+ version Anaconda installer for Windows, OSX, or Linux.
+
+- Accept all the defaults during installation (just click `"Continue"` or `"Next"` the whole way).
+
+- If you run into the following error (see below) click `"Install for me only"` again and you should be able to continue. *Windows Users should check the `"install to PATH"` option even though it tells you NOT to do this and turns red.*
+
+<img src="">
+
+- Once the installation has finished, restart your computer.
+
+**3. Set Up Your Command Line**
+
+*The command line is where you run your code once you've written it, and its already installed by default on most computers.*
+
+- Follow these instructions to get Terminal (the OSX version) or PowerShell (the Windows version) set up.
+
+- The "Do More" section is optional. We'll be going over that in class.
+
+- Complete exercises 2, 3, 4, 5, and 6 to get familiar with the command line. We'll be using it throughout the course. (This step is also optional but HIGHLY recommended.)
+
+**Common Issues Installing Python**
+
+- Make sure you restart your computer after running the Python installer.
+
+- Make sure you only type python in the prompt (no quotes, no spaces, no punctuation, nothing).
+
+- You may have to disable antivirus temporarily.
+
+- If you're on a work computer and it doesn't let you install Python or Sublime Text then you may need to contact your IT team and request permission.
