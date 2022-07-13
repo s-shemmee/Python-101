@@ -66,3 +66,8 @@ Before we write our first line of Python code, you'll need to install a text edi
 - Step 2 :
 
   Download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). Then, run the file – it will only take a minute.
+
+  <img src="https://www.educative.io/api/edpresso/shot/5485113345835008/image/6359130978123776" width= "100px" aling= "center"/>
+
+
+  
