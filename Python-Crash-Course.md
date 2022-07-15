@@ -6,6 +6,24 @@
 
 *What can you do with Python? There are many, many cool things! We take a look, as well as cover what you will learn in this documentation.*
 
+# Features of Python
+
+## Cross-platform
+
+*Python can be worked on multiple platforms such as Windows, Linux, etc.*
+
+## Open Source
+
+*The reference implementation of Python i.e. CPython is Open Source.*
+
+## Multiple Programming-paradigms
+
+*Programming Paradigms classify programming languages based on features, such as functional, procedural, object-oriented, declarative, etc. Python supports multiple programming paradigms such as object-oriented, functional programming, imperative, etc.*
+
+## Fewer lines of code
+
+*A Python program uses lesser lines of code than C, C++, or Java, which makes it simpler*
+
 # How Should I Start Learning Python?
 
 *You might be wondering: How and why should I start learning Python? To help you answer that, we’ll look at various programming languages and compare a few popular ones with Python.*
@@ -116,3 +134,5 @@ print ("Hello World")
 - You may have to disable antivirus temporarily.
 
 - If you're on a work computer and it doesn't let you install Python or Sublime Text then you may need to contact your IT team and request permission.
+
+
