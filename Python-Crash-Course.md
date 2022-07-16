@@ -119,12 +119,6 @@ print ("Hello World")
 
 *The command line is where you run your code once you've written it, and its already installed by default on most computers.*
 
-- Follow these instructions to get Terminal (the OSX version) or PowerShell (the Windows version) set up.
-
-- The "Do More" section is optional. We'll be going over that in class.
-
-- Complete exercises 2, 3, 4, 5, and 6 to get familiar with the command line. We'll be using it throughout the course. (This step is also optional but HIGHLY recommended.)
-
 **Common Issues Installing Python**
 
 - Make sure you restart your computer after running the Python installer.
