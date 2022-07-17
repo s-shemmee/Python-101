@@ -55,6 +55,6 @@ print(f"How about you go to {random_place} with {random_person_one}
 
 # Happy Hour Challenges
 
-- I misspelled Samuel L Jackson's name. Fix the typo.
+- I misspelled Hassan Sensei's name. Fix the typo.
 - Add another person to the list of people.
-- Change the script so it prints out two random people instead of one. (ex. How about you go to Lion's Head Tavern with Mattan and Chris?)
+- Change the script so it prints out three random people instead of one. (ex. How about you go to Lion's Head Tavern with Mattan and Chris?)
