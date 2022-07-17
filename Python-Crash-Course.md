@@ -169,3 +169,24 @@ print ("Hello World")
 - If you're on a work computer and it doesn't let you install Python or Sublime Text then you may need to contact your IT team and request permission.
 
 
+# Python Variables
+
+*Variables in Python are reserved memory locations and do not work like variables in Java, or C. They aren’t declared in the same way. You only need to assign a value is to a variable in Python, for declaration and that’s it! In this lesson, we will learn about Python Variables.*
+
+> Here are some examples,
+
+*The = is used to assign a value to a variable. Here we have 3 variables, va1, val2 and val3,*
+
+```py
+val1 = 6;
+val2 = 10;
+ 
+#sum
+val3 = val1 + val2;
+ 
+print val3;
+```
+
+
+
+
