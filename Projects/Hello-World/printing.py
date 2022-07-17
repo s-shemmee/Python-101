@@ -7,9 +7,10 @@ print("wholly to be a fool")
 print("while Spring is in the world")
 print()
 print("my blood approves")
-print("and kisses are a better fate"
+print("and kisses are a better fate")
 print("than wisdom")
-print("lady i swear by all flowers. Don't cry") # I love this line.
+print("lady i swear by all flowers. Don't cry") 
+# I love this line.
 print("—the best gesture of my brain is less than")
 print("your eyelids' flutter which says")
 print()
