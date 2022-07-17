@@ -10,9 +10,9 @@
 import random
 ```
 
-*This imports other code. A library called 'random' that later allows us to pick out a random bar or random person from our lists.*
+*This imports other code. A library called 'random' that later allows us to pick out a random place or random person from our lists.*
 
-## 2. Lists of Bars & People 
+## 2. Lists of Places & People 
 
 ```py
 Places = ["MacDo",
@@ -32,16 +32,16 @@ people = ["Ali",
           "Oummy"]
 ```
 
-*These are lists of bars and people. They are going to be pulled into...*
+*These are lists of places and people. They are going to be pulled into...*
 
-## 3. Pick a random bar and a random person
+## 3. Pick a random place and a random person
 
 ```py
 random_place = random.choice(Places)
 random_person_one = random.choice(people)
 ```
 
-*This is where our script picks a random bar and a random person.*
+*This is where our script picks a random place and a random person.*
 
 ## 4. Print out the results
 
@@ -49,7 +49,7 @@ random_person_one = random.choice(people)
 print(f"How about you go to {random_place} with {random_person_one}
 ```
 
-*This line prints out the random bar and random person.*
+*This line prints out the random place and random person.*
 
 *The best way to learn to code is by coding. In this lesson, you will dive into your first programming challenge. Don't be scared, let's dive in together! In the next lesson, we’ll review the solution (no peeking just yet).*
 
