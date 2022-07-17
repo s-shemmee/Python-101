@@ -15,17 +15,21 @@ import random
 ## 2. Lists of Bars & People 
 
 ```py
-bars = ["Shoolbred's",
-        "The Wren",
-        "The Scratcher",
-        "ACME",
-        "Blind Barber"]
+Places = ["MacDo",
+        "LCW",
+        "Marjan",
+        "Picsin",
+        "Burger King",
+        "Hamam"]
 
-people = ["Mattan",
-          "Chris",
-          "that person you forgot to text back",
-          "Kanye West",
-          "Samuel L. Jackson"]
+people = ["Ali",
+          "Hamza",
+          "Hassan Sensei",
+          "Salma",
+          "Ghelo",
+          "Sokky"
+          "Robi",
+          "Oummy"]
 ```
 
 *These are lists of bars and people. They are going to be pulled into...*
@@ -33,9 +37,8 @@ people = ["Mattan",
 ## 3. Pick a random bar and a random person
 
 ```py
-random_bar = random.choice(bars)
+random_place = random.choice(Places)
 random_person_one = random.choice(people)
-
 ```
 
 *This is where our script picks a random bar and a random person.*
@@ -43,7 +46,7 @@ random_person_one = random.choice(people)
 ## 4. Print out the results
 
 ```py
-print(f"How about you go to {random_bar} with {random_person_one}
+print(f"How about you go to {random_place} with {random_person_one}
 ```
 
 *This line prints out the random bar and random person.*
