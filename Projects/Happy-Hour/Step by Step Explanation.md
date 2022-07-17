@@ -47,3 +47,11 @@ print(f"How about you go to {random_bar} with {random_person_one}
 ```
 
 *This line prints out the random bar and random person.*
+
+*The best way to learn to code is by coding. In this lesson, you will dive into your first programming challenge. Don't be scared, let's dive in together! In the next lesson, we’ll review the solution (no peeking just yet).*
+
+# Happy Hour Challenges
+
+- I misspelled Samuel L Jackson's name. Fix the typo.
+- Add another person to the list of people.
+- Change the script so it prints out two random people instead of one. (ex. How about you go to Lion's Head Tavern with Mattan and Chris?)
