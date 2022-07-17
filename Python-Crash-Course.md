@@ -103,21 +103,60 @@ print ("Hello World")
 
 **2. Install Python**
 
-*There are several ways to install Python on your computer. We'll be using a simple installer called Anaconda.*
+*To download Python, go to <a href="https://www.python.org">Python’s official website</a>.*
 
-- Download the Python 3.6+ version Anaconda installer for Windows, OSX, or Linux.
+*Now, keep the mouse cursor on the Downloads menu. The current version of Python i.e. Python 3.10 can now be seen,*
 
-- Accept all the defaults during installation (just click `"Continue"` or `"Next"` the whole way).
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/1.-Download-Python-3.9.png"/>
 
-- If you run into the following error (see below) click `"Install for me only"` again and you should be able to continue. *Windows Users should check the `"install to PATH"` option even though it tells you NOT to do this and turns red.*
+*On clicking, the download begins,*
 
-<img src="">
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/2.-Python-3.9-downloading-begins.png">
 
-- Once the installation has finished, restart your computer.
+*After the download completes, click on the arrow, and select Open to begin installing,*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/3.-Start-installing-Python-3.9.png">
+
+*Installation steps initiated. Select the checkbox `“Add Python 3.9 to PATH“`. After that, click Customize Installation as shown below:*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/4.-Python-3.9-installation-started.png">
+
+*Now, you will reach the section Optional Features. This by default checks the “pip” package installer, test suite, py launcher, etc. Pip is used to install and manage Python packages.*
+
+*Keep the default and click `“Next“`:*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/5.-Python-installation-test-suite-pip-py-lancher-settings.png">
+
+*The Advanced Options section would be visible now. Select Install for all users. On selecting it will set the following installation path on its own. You can change the installation path by clicking Browse. If you want to keep the default path, click Install,*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/6.-Set-Python-installation-path.png">
+
+*Installation of all the components begins,*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/7.-Python-components-installing.png">
+
+*After a few seconds, the installation completes as shown below. Click Close,*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/8.-Python-3.9-setup-completes.png">
 
 **3. Set Up Your Command Line**
 
 *The command line is where you run your code once you've written it, and its already installed by default on most computers.*
+
+*Now, verify whether we have successfully installed Python or not.*
+
+*Go to `START` -> type `CMD`, right-click `Open as Administrator`.*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/9.-Open-CMD-to-verify-Python-installation.png">
+
+*The Command Prompt opens as shown below,*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/10.-CMD-opens.png">
+
+*Now, on typing the following command python –version on CMD, the following is visible, that means Python successfully installed on our Windows 10 OS:*
+
+<img src="https://studyopedia.com/wp-content/uploads/2020/10/11.-Python-3.9-successfully-installed-on-Windows-10.png">
+
 
 **Common Issues Installing Python**
 
