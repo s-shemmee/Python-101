@@ -36,16 +36,16 @@
 echo "Hello World";
 ```
 
-> Ruby
-
-```ruby
-puts "Hello World"
-```
-
 > Python
 
 ```python
 print ("Hello World")
+```
+
+> Ruby
+
+```ruby
+puts "Hello World"
 ```
 
 *Now if I run this code the end result I get is the text Hello World.*
