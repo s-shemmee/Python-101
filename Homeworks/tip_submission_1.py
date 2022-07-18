@@ -1,6 +1,6 @@
 # Write a script that takes a dollar amount and recommennds a tip (15%, 18% and 20%)
 # Get a name
-name = intut("What is your name? ")
+name = int("What is your name? ")
 print(name)
 
 total = int(float(input("What is your bill sub-total? ").replace('$', '')))
