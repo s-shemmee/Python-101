@@ -13,15 +13,16 @@
 
 ## <img src="https://media.giphy.com/media/5mgkHUz6GdNj1YOAgC/giphy.gif" width="30"/> Roadmap
 
+*In this Python tutorial for beginners, you will learn Python programming basics and advanced concepts. This Python course contains all the Python basics from installation to advanced stuff like Python data science. This Python programming tutorial helps you to learn Python free with Python notes and Python tutorial PDF. These Python tutorials will help you learn the basics of Python.*
 
 
 ## Sources
 
-- [@Ruby vs Python](https://onemonth.com)
+- [@OneMonth](https://onemonth.com)
 - [@Python](https://wikipedia.org)
 - [@Python 3 Readiness](https://py3readiness.org)
 - [@Udemy](https://www.udemy.com)
-- [@MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [@Guru99](https://www.guru99.com/)
 
 
 ##  <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="30"/> About Me 
