@@ -3,7 +3,7 @@
 ## Topics we've covered this week:
 
 - Command line basics (`pwd`, `ls`, `cd`, `open` / `start`, `.`, `..`, `~`),
-- Two ways of running python code (python [filename], python)
+- Two ways of running python code (python `[filename]`, python)
 - Print: print()
 - Comments #
 - Variable assignment
