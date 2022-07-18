@@ -34,7 +34,7 @@ total = orphan_fee + teddy_bear_fee
 print(name, "the total will be", total)
 ```
 
-> Tip: Sublime will suggest variables for you to fill in, and if you hit Tab, it will auto-complete them. 
+> Tip: Vs code will suggest variables for you to fill in, and if you hit Tab, it will auto-complete them. 
 
 - When you run the file:
 
