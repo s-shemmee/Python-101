@@ -19,7 +19,7 @@
 ## Sources
 
 - [@OneMonth](https://onemonth.com)
-- [@Python](https://wikipedia.org)
+- [@Python Reference Manual](docs.python.org)
 - [@Python 3 Readiness](https://py3readiness.org)
 - [@Udemy](https://www.udemy.com)
 - [@Guru99](https://www.guru99.com/)
