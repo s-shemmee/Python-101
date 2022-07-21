@@ -1,4 +1,4 @@
-## Logic Operators
+# Logic Operators
 
 *In this lesson, we look at Python logical operators. The most popular ones you need to know are: `and`, `or` ,` not`, `==`, `!=`, `>`, and `<`. You'll also learn how to determine if a value is either True or False.*
 
@@ -11,6 +11,52 @@ $ python
 >>> people = ["Mattan", "Chris", "Sarah"]
 >>> "Mattan" in people
 True
+```
+
+## How Does the "or" Operator Work in Python?
+
+*In this lesson, we introduce the "or" logical operator. This operator returns True if at least one of the expressions it's evaluating return True, otherwise, it returns False. You will learn some rules regarding the order in which it evaluates expressions—knowing this could save you from some logical bugs in your code.*
+
+**The "or" operator**
+
+- In `if.py`: 
+
+```py
+answer = input("Do you want to hear a joke? ")
+
+if answer == "Yes" or answer == "yes":
+    print("I'm against picketing, but I don't know how to show it.")
+    # Mitch Hedberg (RIP)
+elif answer == "No" or answer == "no" :
+    print("Fine.")
+else:
+    print("I don't understand.")
+```
+
+## Understanding "in" in Python
+
+*If you have several values and want to evaluate if a certain value is equal to any of the available values, you can either string together several comparison expressions with OR statements, or even better, you can place the values in a Python sequence—for instance, a list—and use the IN operator to check if your data is in the list. This makes the code succinct and more readable.*
+
+**The "in" operator**
+
+*So how do you cover all the different ways that a user could respond to an input? Well, you can put together a list, and then use in to pull responses from that list:*
+
+In the `if.py` type:
+
+```py
+answer = input("Do you want to hear a joke? ")
+
+affirmative_responses = ["yes", "y"]
+negative_responses = ["no", "n"]
+
+if answer.lower() in affirmative_responses:
+    print("I'm against picketing, but I don't know how to show it.")
+    # Mitch Hedburg (RIP)
+elif answer.lower() in negative_responses:
+    print("Fine.")
+else:
+    print("I don't understand.")
+
 ```
 
 ## Boolean Practice Challenge
