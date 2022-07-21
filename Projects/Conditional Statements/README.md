@@ -5,29 +5,40 @@
 - Create a new file
 - Create a new file called if.py:
 
+```py
 answer = input("Do you want to hear a joke? ")
 
 if answer == "Yes":
     print("I'm against picketing, but I don't know how to show it.")
     # Mitch Hedberg (RIP)
-Running the file, we see our joke, or we don't. 
+```
 
+- Running the file, we see our joke, or we don't. 
+
+```bash
 $ python if.py
 Do you want to hear a joke? Yes
 I'm against picketing, but I don't know how to show it.
 $ python if.py
 Do you want to hear a joke? No
-$ 
-How does == work in Python?
-== checks to see whether two things are equal. It returns True if they are and False if they aren't.
+$
+```
 
+## How does == work in Python?
+
+*`==` checks to see whether two things are equal. It returns `True` if they are and `False` if they aren't.*
+
+```bash
 $ python
 >>> "Yes" == "Yes"
 True
 >>> "No" == "Yes"
 False
-Remember that even though they look similar, = and == are very different.
+```
 
+*Remember that even though they look similar, `=` and `==` are very different.*
+
+```bash
 $ python
 >>> answer = "Yes"
 >>> answer == "Yes"
@@ -35,18 +46,29 @@ True
 >>> answer = "No"
 >>> answer == "Yes"
 False
-You can also use != to check if two things are different:
+```
 
+*You can also use `!=` to check if two things are different:*
+
+```bash
 >>> answer != "Blue"
 True
 >>> answer != "No"
 False
-How does if work?
-if will check to see if something is True and then run any indented code after (after the colon). 
+```
 
+## How does if work?
+
+*`if` will check to see if something is `True` and then run any indented code after (after the colon).* 
+
+```py
 if True:
     # Anything here will run
-And accordingly: 
+```
 
+*And accordingly:* 
+
+```py
 if False:
     # This will never run
+```
