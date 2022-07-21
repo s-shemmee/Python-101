@@ -72,3 +72,25 @@ if True:
 if False:
     # This will never run
 ```
+
+*In this lesson, we expand our knowledge of Python conditional statements by looking at ways of checking for more than one condition by using the if...else, if...elif...else and nested if conditional statements.*
+
+## if, elif, and else 
+
+- In `if.py`:
+
+```py
+answer = input("Do you want to hear a joke? ")
+
+if answer == "Yes":
+    print("I'm against picketing, but I don't know how to show it.")
+    # Mitch Hedberg (RIP)
+elif answer == "No":
+    print("Fine.")
+else:
+    print("I don't understand.")
+```
+
+*`else` lets you say what code you want to run if the `if` part doesn't turn out to be true.*
+
+*You can also add another `if` condition below the `if` with `elif` (you can actually add as many `elifs `as you want).*
