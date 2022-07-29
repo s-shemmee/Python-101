@@ -123,3 +123,33 @@ $ python loops.py
 ```
 
 **Note:** *Ranges start at the first number and go up to (but don't include) the second number. So if you want to do something 10 times, you have to use range(1,11).*
+
+## How to Access Data in a List
+
+*Here, we look at ways we can access list items as well as ways we can get other useful information about a list and its items. You will find out how to access individual items inside a list using an index (sequentially as well as in reverse order), and how to find the "length" of a list.*
+
+- You can pull out parts of a list using `[]` after the name of the list, like this:
+
+```py
+# here's how you access elements of a list
+animals = ['bear', 'tiger', 'penguin', 'zebra']
+first_animal = animals[0]
+print(first_animal)
+third_animal = animals[2]
+print(third_animal)
+```
+
+- You can also find the length of a list with `len()` 
+
+```py
+print("They're are this many things:", len(random_things))
+```
+
+**Note two things:**
+
+- The position of things in a list starts at 0, so to get the first thing you do `[0]`.
+Y- ou can go backwards through the list using negative numbers. The last thing in a list is always `[-1]`.
+
+*There's also the function `type()` which will tell you what kind of thing anything is.* 
+
+*Now, when you're pulling things out of a list, you can also go backwards. So if you were to type `another_list = random_things[-1]`, then you'd get the list at the very end of our list of random things.*
