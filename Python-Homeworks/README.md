@@ -1,3 +1,5 @@
+# Homework-One : Tip Calculator
+
 *We've looked at Python variables, strings, arithmetic operators, debugging, typecasting and more! Now, you will put this knowledge to use. It's assignment time!*
 
 ## Topics we've covered this week:
