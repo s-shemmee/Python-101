@@ -34,3 +34,18 @@ Tup1 = (50,);
 - Built-in functions with Tuple
 - Advantages of tuple over list
 
+**Tuple Assignment**
+
+*Python has tuple assignment feature which enables you to assign more than one variable at a time. In here, we have assigned tuple 1 with the persons information like name, surname, birth year, etc. and another tuple 2 with the values in it like number (1,2,3,….,7).*
+
+>For Example:
+
+(name, surname, birth year, favorite movie and year, profession, birthplace) = Robert
+
+```py
+tup1 = ('Robert', 'Carlos','1965','Terminator 1995', 'Actor','Florida');
+tup2 = (1,2,3,4,5,6,7);
+print(tup1[0])
+print(tup2[1:4])
+```
+
