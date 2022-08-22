@@ -38,7 +38,7 @@ Tup1 = (50,);
 
 *Python has tuple assignment feature which enables you to assign more than one variable at a time. In here, we have assigned tuple 1 with the persons information like name, surname, birth year, etc. and another tuple 2 with the values in it like number (1,2,3,….,7).*
 
->For Example:
+> For Example:
 
 (name, surname, birth year, favorite movie and year, profession, birthplace) = Robert
 
@@ -109,19 +109,21 @@ else: print("b is bigger")
 
 *Since tuples are hashable, and list is not, we must use tuple as the key if we need to create a composite key to use in a dictionary.*
 
-> Example: We would come across a composite key if we need to create a telephone directory that maps, first-name, last-name, pairs of telephone numbers, etc. Assuming that we have declared the variables as last and first number, we could write a dictionary assignment statement as shown below:
+> Example:
 
-```py
+*We would come across a composite key if we need to create a telephone directory that maps, first-name, last-name, pairs of telephone numbers, etc. Assuming that we have declared the variables as last and first number, we could write a dictionary assignment statement as shown below:*
+
+```
 directory[last,first] = number
 ```
 
 *Inside the brackets, the expression is a tuple. We could use tuple assignment in a for loop to navigate this dictionary.*
 
-```shell
+```
 for last, first in directory:
 ```
 
-```shell
+```
 print first, last, directory[last, first]
 ```
 
@@ -215,7 +217,7 @@ print x[2:4]
 *Python has tuple assignment feature which enables you to assign more than one variable at a time.*
 
 - Packing and Unpacking of Tuples
-  -In packing, we place value into a new tuple while in unpacking we extract those values back into variables.
+  - In packing, we place value into a new tuple while in unpacking we extract those values back into variables.
 - A comparison operator in Python can work with tuples.
 - Using tuples as keys in dictionaries
   - Tuples are hashable, and list are not
