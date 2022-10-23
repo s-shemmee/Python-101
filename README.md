@@ -5,10 +5,16 @@
 
 ## <img src="https://media.giphy.com/media/RkcB9I0YnRiN6OQitv/giphy.gif" width="30"/> Skills
 
-- Automate repetitive tasks
-- Scrape data from websites like Google and Amazon
-- Interact with servers and APIs like Facebook, Twilio, Weather Forecasts, and Twitter
-- Perform data analysis
+- AI and machine learning
+- Data analytics 
+- Data visualisation 
+- Programming applications
+- Web development
+- Game development
+- Language development
+- Finance
+- SEO
+- Design
 
 
 ## <img src="https://media.giphy.com/media/5mgkHUz6GdNj1YOAgC/giphy.gif" width="30"/> Roadmap
