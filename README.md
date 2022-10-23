@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/5mgkHUz6GdNj1YOAgC/giphy.gif" width="30"/> Roadmap
 
-*In this Python tutorial for beginners, you will learn Python programming basics and advanced concepts. This Python course contains all the Python basics, from installation to advanced stuff like Python data science. This Python programming tutorial helps you to learn Python for free with Python notes and a Python tutorial PDF. These Python tutorials will help you learn the basics of Python.*
+*In this Python tutorial for beginners, you will learn Python programming basics and advanced concepts. This Python course contains all the Python basics, from installation to advanced stuff like Python data science. This Python programming tutorial helps you to learn Python for free with Python notes and a Python tutorial PDF.*
 
 
 ## Sources
