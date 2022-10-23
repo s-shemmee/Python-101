@@ -22,6 +22,13 @@
 *In this Python tutorial for beginners, you will learn Python programming basics and advanced concepts. This Python course contains all the Python basics, from installation to advanced stuff like Python data science. This Python programming tutorial helps you to learn Python for free with Python notes and a Python tutorial PDF.*
 
 
+## <img src="https://media.giphy.com/media/WQINRXYXaqVx6g4Eza/giphy.gif" width="30"/> Related
+
+Here are some related projects
+
+- [Python Project Ideas](https://github.com/s-shemmee/Python-Project-Ideas)
+
+
 ## Sources
 
 - [@OneMonth](https://onemonth.com)
